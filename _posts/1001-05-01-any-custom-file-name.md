@@ -2,9 +2,8 @@
 layout: post
 ---
 
-example of blockquotes
+Let me react to a reading by quoting it
 
-As Grace Hopper said:
-> I’ve always been more interested 
-> in the future than in the past.
-
+As Donna Haraway said:
+> I’d rather be 
+> a cyborg than a goddess.
