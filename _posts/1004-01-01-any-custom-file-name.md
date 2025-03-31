@@ -2,8 +2,7 @@
 layout: post
 ---
 
-Let me react to a reading by quoting it
+## Hostile Architecture
 
-As Donna Haraway said:
-> I’d rather be 
-> a cyborg than a goddess.
+Maryam Omidi, from The Guardian:
+> One of the problems with architectures of control is that they don’t discriminate. An uncomfortable bench is as uncomfortable for a homeless person as it is for a tired passerby or for someone looking for a place to read. 
